@@ -9,3 +9,6 @@ Aprendendo técnicas de programação com algoritmos, exemplos práticos usando 
 
 
 ## 📌Lógica de Programação
+- exemplo 1
+- exemplo 2
+- exemplo 3
