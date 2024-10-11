@@ -8,4 +8,4 @@ Aprendendo técnicas de programação com algoritmos, exemplos práticos usando 
 ## 📌Primeiros Passos com Algoritmos
 
 
-## 📌
+## 📌Lógica de Programação
